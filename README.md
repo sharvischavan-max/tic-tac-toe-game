@@ -1,2 +1,15 @@
-# tic-tac-toe-game
-An interactive Tic Tac Toe web application featuring a modern UI, smart AI opponent, animations, sound effects, and score tracking.
+# 🎮 Tic Tac Toe Game
+
+This is a Tic Tac Toe game made using HTML, CSS and JavaScript.
+
+## ✨ Features
+- Play with friend
+- Play vs computer
+- Score tracking
+- Reset button
+
+## 🚀 How to run
+Open index.html in browser
+
+## 👩‍💻 Author
+Sharvi Chavan
